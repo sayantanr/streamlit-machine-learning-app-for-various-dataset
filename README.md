@@ -1,8 +1,4 @@
-# streamlit-machine-learning-app-for-various-dataset
-
-1.BREAST CANCER
-2.WINE
-3.IRIS
+# streamlit-machine-learning-app-for-various-dataset 1.BREAST CANCER 2.WINE 3.IRIS
 
 
 ALGORITHMS USED -

@@ -20,3 +20,4 @@ packages required
 sklearn
 numpy
 matplotlib
+streamlit
